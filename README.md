@@ -1,4 +1,11 @@
-Code I wrote contained within src/student_player
+# Pentago Twist AI written in Java for COMP 424 - Artificial Intelligence at McGill University
+Code I wrote contained within src/student_player. Created an AI to play Pentago Twist vs a Human or other AI. AI utilizes [Alpha-Beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) along with the minimax algorithm to determine the best move. 
+
+## Instructions
+Run src/boardgame/Server.java. Go to Launch -> Launch Client (student_player.StudentPlayer) then Launch -> Launch human player to play against the AI. 
+
+More informatino about the game and framework from the original repo written by @SaminYeasar below: 
+
 # pentago_twist
 
 ![](https://github.com/SaminYeasar/pentago_twist/blob/main/image/game.gif)
