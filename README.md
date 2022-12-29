@@ -4,7 +4,7 @@ Code I wrote contained within src/student_player. Created an AI to play Pentago 
 ## Instructions
 Run src/boardgame/Server.java. Go to Launch -> Launch Client (student_player.StudentPlayer) then Launch -> Launch human player to play against the AI. 
 
-More informatino about the game and framework from the original repo written by @SaminYeasar below: 
+More information about the game and framework from the original repo written by @SaminYeasar below: 
 
 # pentago_twist
 
