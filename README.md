@@ -1,3 +1,4 @@
+Code I wrote contained within src/student_player
 # pentago_twist
 
 ![](https://github.com/SaminYeasar/pentago_twist/blob/main/image/game.gif)
